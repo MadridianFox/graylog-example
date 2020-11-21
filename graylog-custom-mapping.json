@@ -1,0 +1,15 @@
+{
+  "template": "laravel_*",
+  "mappings" : {
+    "message" : {
+      "properties" : {
+        "context" : {
+          "type" : "text"
+        },
+        "extra" : {
+          "type" : "text"
+        }
+      }
+    }
+  }
+}
